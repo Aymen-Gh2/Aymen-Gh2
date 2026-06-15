@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello,  I'm Ayman Gharsellaoui 👋👋
+##💫About Me :
+
+I am a  computer engineering graduate with a solid foundation in working with Software Development , APIs, Website/Mobile App Development and Cloud.
+
+My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
 
 <!--
 **Aymen-Gh2/Aymen-Gh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
