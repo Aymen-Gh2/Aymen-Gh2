@@ -1,5 +1,5 @@
 ## Hello,  I'm Ayman Gharsellaoui 👋👋
-##💫About Me :
+💫About Me :
 
 I am a  computer engineering graduate with a solid foundation in working with Software Development , APIs, Website/Mobile App Development and Cloud.
 
@@ -11,7 +11,7 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 
 <p align="center">
   <!-- Row 1 (13) -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,firebase,nextjs,nodejs,mongodb,supabase,git,github,bootstrap,&perline=18" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,flutter,firebase,nextjs,nodejs,mongodb,supabase,git,github,&perline=18" /><br>
 <!-- Row 2 (13) -->
 <img src="https://skillicons.dev/icons?i=npm,postman,mysql,java,androidstudio,figma,vscode&perline=18" /><br>
 </p>
