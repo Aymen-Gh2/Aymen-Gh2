@@ -11,9 +11,9 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 
 <p align="center">
   <!-- Row 1 (13) -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,flutter,firebase,nextjs,nodejs,mongodb,supabase,git,github,&perline=18" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,flutter,firebase,nextjs,nodejs,git,github,&perline=18" /><br>
 <!-- Row 2 (13) -->
-<img src="https://skillicons.dev/icons?i=npm,postman,mysql,java,androidstudio,figma,vscode&perline=18" /><br>
+<img src="https://skillicons.dev/icons?i=npm,postman,mysql,java,androidstudio,figma,mongodb,supabase,vscode&perline=18" /><br>
 </p>
 
 ---
