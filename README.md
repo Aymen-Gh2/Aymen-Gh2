@@ -3,7 +3,8 @@
 
 I am a  computer engineering graduate with a solid foundation in working with Software Development , APIs, Website/Mobile App Development and Cloud.
 
-My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
+My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. 
+I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
 
 --- 
 
