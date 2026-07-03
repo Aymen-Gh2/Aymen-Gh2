@@ -6,6 +6,7 @@ I am a  computer engineering graduate with a solid foundation in working with So
 My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. 
 I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
 
+
 --- 
 
 ## Tech Stack :
