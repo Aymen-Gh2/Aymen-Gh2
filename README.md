@@ -1,11 +1,7 @@
 ## Hello,  I'm Ayman Gharsellaoui 👋👋
 💫About Me :
 
-I am a  computer engineering graduate with a solid foundation in working with Software Development , APIs, Website/Mobile App Development and Cloud.
-
-My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. 
-I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
-
+Junior mobile and web application developer, trained in information systems, with initial experience in digital management and in the administration of a store's mobile application and website. Main stack: Flutter and Dart for mobile, React.js and JavaScript for web, PHP with MySQL and SQL Server for databases. Accustomed to level 1 and 2 technical support, client relations and teamwork on projects delivered in a professional environment.
 
 --- 
 
